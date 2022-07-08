@@ -1,0 +1,81 @@
+*{
+    padding: auto;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+
+body{
+    background: lightblue url("/images/pattern-background-desktop.svg") no-repeat ;
+    text-align: center;
+    padding: 0%;
+    border: 0px solid ;
+    width: 30%;
+    margin: 20px 30em;
+}
+main{
+    background-color: white ;
+    border-radius: 1em;
+    height: 40em;
+}
+
+img.container{
+    width: 100%;
+    border: 0px solid;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+    border-bottom-left-radius: 0em;
+    border-bottom-right-radius:0em ;
+    margin-bottom: 0;
+}
+.mmm{
+    line-height: 0.8;
+}
+.mid{
+    background-color: rgba(127, 255, 212, 0.199);
+    display: flex;
+    margin-left:  40px;
+    margin-right: 40px;
+    margin-top: 30px;
+    border: opx solid;
+    border-radius: 1em;
+    height: 5em;
+}
+#img{
+    height:50px;
+    margin-top: 13px;
+margin-left: 15px;
+}
+#a{
+    margin-top: 0px;
+margin-left: 20px;
+}
+#b{
+margin-top: -15px;
+margin-left: -20px;
+}
+#c{
+    margin-top: 2em;
+    margin-left: 60px;
+}
+a{
+    color: blue;
+    font-weight: 600;
+}
+p{
+    color: gray;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    border: 0px solid  ;
+    border-radius: 10px;
+    height: 3em;
+    width: 25em;
+    margin-top: 3em;
+}
+.cancel{
+    color: black;
+    font-weight: 600;
+    margin-top: 2.5em;
+}
